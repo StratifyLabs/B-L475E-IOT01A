@@ -1,0 +1,18 @@
+{
+   "description": "This BSP is for the Tyke project on the STM32L475 IOT Discovery board.",
+   "github": "https://github.com/tyler-gilbert/TykeFW",
+   "name": "B-L475E-IOT01A",
+   "permissions": "public",
+   "publisher": "Stratify Labs, Inc",
+   "tags": "stm32,arm,cortex-m4",
+   "type": "os",
+   "uid": "9cQyOTk3fZXOuMtPyf5j9X4H4b83",
+   "version": "0.11",
+   "hardwareId": "0x00000020",
+   "timestamp": 1558229597,
+   "documentId": "bYcyjjLCDLvRnv1rmLaT",
+   "buildList": {
+      "1w7Y7vWhbJKwMzdE9Dj3": "0.10",
+      "dwenRC4044KKEQ7OLNAJ": "0.11"
+   }
+}
